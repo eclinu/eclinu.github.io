@@ -1,6 +1,22 @@
 
-@media(min-width:800px){
-#topsheet {
-	width: 800px;
- }
- }
+div#boxbase {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+}
+
+div#boxmenu {
+  background-color: #f2f2f2;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+}
+
+div#boxtitle {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+}
