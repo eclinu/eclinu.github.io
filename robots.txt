@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /xe/
-Disallow: /wp/
-Disallow: /intra/
-Disallow: /incoming/
