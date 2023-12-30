@@ -20,11 +20,3 @@ div#boxtitle {
   padding-left: 20px; 
   padding-right: 20px; 
 }
-
-ul.disc {
-  list-style-type: disc;
-}
-
-ul.square {
-  list-style-type: square;
-}
