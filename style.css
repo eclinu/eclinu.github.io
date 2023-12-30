@@ -20,3 +20,11 @@ div#boxtitle {
   padding-left: 20px; 
   padding-right: 20px; 
 }
+
+ul.disc {
+  list-style-type: "\2022\A0\A0";
+}
+
+ul.square {
+  list-style-type: "\25AA\A0\A0";
+}
